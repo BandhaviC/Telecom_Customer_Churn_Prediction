@@ -5,6 +5,23 @@ In a highly competitive business landscape, the ever increasing rate of customer
 
 In this notebook, we will try to analyze the factors which contribute to the possibility of customer's churn. This analysis is performed based on the publicly available dataset from IBM.
 
+## About Dataset
+## Context
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
+
+## Content
+Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
+
+## The data set includes information about:
+
+Customers who left within the last month – the column is called Churn.
+
+Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+
+Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
+
+Demographic info about customers – gender, age range, and if they have partners and dependents.
+
 ## Telco Churn Prediction
 The data set on telecom customer churn includes information about a fictional telecommunications company providing home phone and internet services to 7,043 customers in California during the third quarter. It indicates which customers have left the services, stayed, or signed up for the services.
 
